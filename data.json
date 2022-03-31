@@ -1,0 +1,28 @@
+{
+	"students": {
+		"1": {
+			"name" : "Petr Sidorov"
+		},
+		"2": {
+			"name" : "Vladimir Ivanov"
+		},
+		"3": {
+			"name" : "Maria Stepanova"
+		},
+		"4": {
+			"name" : "Ekaterina Spiridonova"
+		},
+		"5": {
+			"name" : "Oleg Simonenko"
+		},
+		"6": {
+			"name" : "Alexandr Sidorov"
+		},
+		"7": {
+			"name" : "Semen Kostenko"
+		},
+		"8": {
+			"name" : "Tatiana Minchenko"
+		}
+	}
+}
